@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Wallet - Guide d'Installation
 
 ##  Prérequis Technologiques
@@ -14,3 +15,7 @@ cd code-wallet
 bash
 npm install
 npm install firebase @uiw/react-codemirror @codemirror/lang-javascript @headlessui/react @heroicons/react
+=======
+# CODE--WALLET
+Code Wallet a pour ambition d’être un outil gratuit pour les développeurs afin de pouvoir organiser une bibliothèque de fragments de code réutilisable. 
+>>>>>>> a46fd524fe076c6e3dae8604060f9a0df6ef7c4b
